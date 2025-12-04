@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:810bf033-27fc-4a97-8b87-4c7e8d24786a",
+  "as_of": "2025-11-11T19:00:00Z",
+  "market_prob": 0.7349258331727991,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251112290DD9B1",
+    "sportsbook": "circa_sports",
+    "event_home": "Oklahoma City Thunder",
+    "event_away": "Golden State Warriors",
+    "fixture_home": "Oklahoma City Thunder",
+    "fixture_away": "Golden State Warriors",
+    "swapped": false,
+    "start": "2025-11-12T01:00:00+00:00",
+    "p_home": 0.7604651162790699,
+    "p_away": 0.2742857142857143
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:385cfd76-7204-461c-87db-c0856e9544e8",
+  "as_of": "2025-10-30T22:00:00Z",
+  "market_prob": 0.35294117647058826,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "202511013052B7FD",
+    "sportsbook": "circa_sports",
+    "event_home": "Charlotte Hornets",
+    "event_away": "Minnesota Timberwolves",
+    "fixture_home": "Charlotte Hornets",
+    "fixture_away": "Minnesota Timberwolves",
+    "swapped": false,
+    "start": "2025-11-01T22:00:00+00:00",
+    "p_home": 0.36363636363636365,
+    "p_away": 0.6666666666666666
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:b0efeb7a-fe45-43c6-9f56-32c3b7f04c13",
+  "as_of": "2025-11-17T00:00:00Z",
+  "market_prob": 0.6923076923076924,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251118CBDDEC8B",
+    "sportsbook": "circa_sports",
+    "event_home": "Cleveland Cavaliers",
+    "event_away": "Milwaukee Bucks",
+    "fixture_home": "Cleveland Cavaliers",
+    "fixture_away": "Milwaukee Bucks",
+    "swapped": false,
+    "start": "2025-11-18T00:00:00+00:00",
+    "p_home": 0.7142857142857143,
+    "p_away": 0.31746031746031744
+  }
+}

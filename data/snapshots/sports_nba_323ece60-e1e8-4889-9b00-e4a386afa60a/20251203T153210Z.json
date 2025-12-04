@@ -1,0 +1,20 @@
+{
+  "event_id": "sports:nba:323ece60-e1e8-4889-9b00-e4a386afa60a",
+  "as_of": "2025-12-03T15:32:10.220432Z",
+  "market_prob": 0.6106604866743917,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "fixture_id": "20251205DC76125B",
+    "sportsbook": "jugabet_chile_",
+    "event_home": "Brooklyn Nets",
+    "event_away": "Utah Jazz",
+    "fixture_home": "Brooklyn Nets",
+    "fixture_away": "Utah Jazz",
+    "swapped": false,
+    "p_home": 0.0248015873015873,
+    "p_away": 0.015812776723592662
+  }
+}

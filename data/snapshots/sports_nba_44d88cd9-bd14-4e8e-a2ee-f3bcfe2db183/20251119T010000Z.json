@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:44d88cd9-bd14-4e8e-a2ee-f3bcfe2db183",
+  "as_of": "2025-11-19T01:00:00Z",
+  "market_prob": 0.14285714285714285,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251120EE3545E0",
+    "sportsbook": "circa_sports",
+    "event_home": "New Orleans Pelicans",
+    "event_away": "Denver Nuggets",
+    "fixture_home": "New Orleans Pelicans",
+    "fixture_away": "Denver Nuggets",
+    "swapped": false,
+    "start": "2025-11-20T01:00:00+00:00",
+    "p_home": 0.14814814814814814,
+    "p_away": 0.8888888888888888
+  }
+}

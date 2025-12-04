@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:238acdc2-72fa-4a49-a1df-5deff4626519",
+  "as_of": "2025-11-15T01:00:00Z",
+  "market_prob": 0.4782608695652174,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251117C76568DF",
+    "sportsbook": "circa_sports",
+    "event_home": "Phoenix Suns",
+    "event_away": "Atlanta Hawks",
+    "fixture_home": "Phoenix Suns",
+    "fixture_away": "Atlanta Hawks",
+    "swapped": false,
+    "start": "2025-11-17T01:00:00+00:00",
+    "p_home": 0.5,
+    "p_away": 0.5454545454545454
+  }
+}

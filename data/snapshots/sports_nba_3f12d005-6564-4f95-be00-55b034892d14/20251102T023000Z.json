@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:3f12d005-6564-4f95-be00-55b034892d14",
+  "as_of": "2025-11-02T02:30:00Z",
+  "market_prob": 0.6345305608065531,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251103D574D180",
+    "sportsbook": "circa_sports",
+    "event_home": "Los Angeles Lakers",
+    "event_away": "Miami Heat",
+    "fixture_home": "Los Angeles Lakers",
+    "fixture_away": "Miami Heat",
+    "swapped": false,
+    "start": "2025-11-03T02:30:00+00:00",
+    "p_home": 0.6551724137931034,
+    "p_away": 0.37735849056603776
+  }
+}

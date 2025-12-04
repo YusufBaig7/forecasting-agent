@@ -1,0 +1,20 @@
+{
+  "event_id": "sports:nba:7062191a-1c22-4f79-9f8a-d8799996c276",
+  "as_of": "2025-12-03T15:48:34.814032Z",
+  "market_prob": 0.5770491803278689,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "fixture_id": "20251205415E332D",
+    "sportsbook": "jugabet_chile_",
+    "event_home": "Toronto Raptors",
+    "event_away": "Los Angeles Lakers",
+    "fixture_home": "Toronto Raptors",
+    "fixture_away": "Los Angeles Lakers",
+    "swapped": false,
+    "p_home": 0.022799817601459188,
+    "p_away": 0.01671122994652406
+  }
+}

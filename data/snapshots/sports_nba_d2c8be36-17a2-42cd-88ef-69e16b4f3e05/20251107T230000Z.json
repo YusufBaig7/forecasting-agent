@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:d2c8be36-17a2-42cd-88ef-69e16b4f3e05",
+  "as_of": "2025-11-07T23:00:00Z",
+  "market_prob": 0.8832116788321168,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251109995A605A",
+    "sportsbook": "circa_sports",
+    "event_home": "New York Knicks",
+    "event_away": "Brooklyn Nets",
+    "fixture_home": "New York Knicks",
+    "fixture_away": "Brooklyn Nets",
+    "swapped": false,
+    "start": "2025-11-09T23:00:00+00:00",
+    "p_home": 0.9166666666666666,
+    "p_away": 0.12121212121212122
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:d8093e2f-bdb1-4671-bdc5-1f3c90c22311",
+  "as_of": "2025-11-05T00:30:00Z",
+  "market_prob": 0.6547884187082406,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251106A9D7358F",
+    "sportsbook": "circa_sports",
+    "event_home": "New York Knicks",
+    "event_away": "Minnesota Timberwolves",
+    "fixture_home": "New York Knicks",
+    "fixture_away": "Minnesota Timberwolves",
+    "swapped": false,
+    "start": "2025-11-06T00:30:00+00:00",
+    "p_home": 0.6774193548387096,
+    "p_away": 0.35714285714285715
+  }
+}

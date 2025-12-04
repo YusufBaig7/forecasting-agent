@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:0e111fb0-ae26-46e0-a5c8-3581830320a0",
+  "as_of": "2025-11-01T20:00:00Z",
+  "market_prob": 0.7065820777160983,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251101985026AD",
+    "sportsbook": "circa_sports",
+    "event_home": "Milwaukee Bucks",
+    "event_away": "Sacramento Kings",
+    "fixture_home": "Milwaukee Bucks",
+    "fixture_away": "Sacramento Kings",
+    "swapped": false,
+    "start": "2025-11-01T21:00:00+00:00",
+    "p_home": 0.7297297297297297,
+    "p_away": 0.30303030303030304
+  }
+}

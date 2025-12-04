@@ -1,0 +1,20 @@
+{
+  "event_id": "sports:nba:c095b517-be99-422d-baf8-553fdf9ade61",
+  "as_of": "2025-12-03T15:12:51.107732Z",
+  "market_prob": 0.35795454545454547,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "fixture_id": "20251209289F5EF3",
+    "sportsbook": "jugabet_chile_",
+    "event_home": "Orlando Magic",
+    "event_away": "Miami Heat",
+    "fixture_home": "Orlando Magic",
+    "fixture_away": "Miami Heat",
+    "swapped": false,
+    "p_home": 0.014999250037498125,
+    "p_away": 0.026903416733925208
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:f269da86-d3fa-446e-a871-36a8854673f4",
+  "as_of": "2025-11-02T01:00:00Z",
+  "market_prob": 0.38848920863309355,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "202511041EE89D93",
+    "sportsbook": "circa_sports",
+    "event_home": "Memphis Grizzlies",
+    "event_away": "Detroit Pistons",
+    "fixture_home": "Memphis Grizzlies",
+    "fixture_away": "Detroit Pistons",
+    "swapped": false,
+    "start": "2025-11-04T01:00:00+00:00",
+    "p_home": 0.4,
+    "p_away": 0.6296296296296297
+  }
+}

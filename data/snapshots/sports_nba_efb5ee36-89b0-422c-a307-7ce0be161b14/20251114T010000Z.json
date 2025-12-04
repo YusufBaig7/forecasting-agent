@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:efb5ee36-89b0-422c-a307-7ce0be161b14",
+  "as_of": "2025-11-14T01:00:00Z",
+  "market_prob": 0.8246505717916137,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251115625882BF",
+    "sportsbook": "circa_sports",
+    "event_home": "Minnesota Timberwolves",
+    "event_away": "Sacramento Kings",
+    "fixture_home": "Minnesota Timberwolves",
+    "fixture_away": "Sacramento Kings",
+    "swapped": false,
+    "start": "2025-11-15T01:00:00+00:00",
+    "p_home": 0.855072463768116,
+    "p_away": 0.18181818181818182
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:044ab733-ddab-4c55-83ce-b8a614f093fe",
+  "as_of": "2025-11-04T03:00:00Z",
+  "market_prob": 0.562043795620438,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251106EC1E80FA",
+    "sportsbook": "circa_sports",
+    "event_home": "Los Angeles Lakers",
+    "event_away": "San Antonio Spurs",
+    "fixture_home": "Los Angeles Lakers",
+    "fixture_away": "San Antonio Spurs",
+    "swapped": false,
+    "start": "2025-11-06T03:00:00+00:00",
+    "p_home": 0.5833333333333334,
+    "p_away": 0.45454545454545453
+  }
+}

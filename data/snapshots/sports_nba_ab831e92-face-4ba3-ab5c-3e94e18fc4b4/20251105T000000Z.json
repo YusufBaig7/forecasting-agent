@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:ab831e92-face-4ba3-ab5c-3e94e18fc4b4",
+  "as_of": "2025-11-05T00:00:00Z",
+  "market_prob": 0.7780411593578278,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "202511062CAD4013",
+    "sportsbook": "circa_sports",
+    "event_home": "Cleveland Cavaliers",
+    "event_away": "Philadelphia 76ers",
+    "fixture_home": "Cleveland Cavaliers",
+    "fixture_away": "Philadelphia 76ers",
+    "swapped": false,
+    "start": "2025-11-06T00:00:00+00:00",
+    "p_home": 0.8058252427184466,
+    "p_away": 0.22988505747126436
+  }
+}

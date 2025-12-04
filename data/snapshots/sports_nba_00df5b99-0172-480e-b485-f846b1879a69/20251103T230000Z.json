@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:00df5b99-0172-480e-b485-f846b1879a69",
+  "as_of": "2025-11-03T23:00:00Z",
+  "market_prob": 0.22727272727272724,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "2025110493786F4C",
+    "sportsbook": "circa_sports",
+    "event_home": "Brooklyn Nets",
+    "event_away": "Minnesota Timberwolves",
+    "fixture_home": "Brooklyn Nets",
+    "fixture_away": "Minnesota Timberwolves",
+    "swapped": false,
+    "start": "2025-11-04T00:00:00+00:00",
+    "p_home": 0.23529411764705882,
+    "p_away": 0.8
+  }
+}

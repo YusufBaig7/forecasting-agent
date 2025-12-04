@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:d01f1ba5-1436-4160-9033-f97052d77df3",
+  "as_of": "2025-11-07T01:00:00Z",
+  "market_prob": 0.6040343668285393,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "202511087B298EBB",
+    "sportsbook": "circa_sports",
+    "event_home": "Milwaukee Bucks",
+    "event_away": "Chicago Bulls",
+    "fixture_home": "Milwaukee Bucks",
+    "fixture_away": "Chicago Bulls",
+    "swapped": false,
+    "start": "2025-11-08T01:00:00+00:00",
+    "p_home": 0.6226415094339622,
+    "p_away": 0.40816326530612246
+  }
+}

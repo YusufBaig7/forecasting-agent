@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:8587b34d-80d4-4d5f-b4b3-03972868906d",
+  "as_of": "2025-11-14T18:00:00Z",
+  "market_prob": 0.6760953787107701,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "2025111571E3662E",
+    "sportsbook": "circa_sports",
+    "event_home": "New York Knicks",
+    "event_away": "Miami Heat",
+    "fixture_home": "New York Knicks",
+    "fixture_away": "Miami Heat",
+    "swapped": false,
+    "start": "2025-11-15T00:00:00+00:00",
+    "p_home": 0.6985294117647058,
+    "p_away": 0.33465234595816845
+  }
+}

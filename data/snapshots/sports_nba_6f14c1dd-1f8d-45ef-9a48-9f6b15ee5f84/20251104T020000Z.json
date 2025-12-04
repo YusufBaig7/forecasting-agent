@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:6f14c1dd-1f8d-45ef-9a48-9f6b15ee5f84",
+  "as_of": "2025-11-04T02:00:00Z",
+  "market_prob": 0.7313237221494101,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "202511068131986E",
+    "sportsbook": "circa_sports",
+    "event_home": "Denver Nuggets",
+    "event_away": "Miami Heat",
+    "fixture_home": "Denver Nuggets",
+    "fixture_away": "Miami Heat",
+    "swapped": false,
+    "start": "2025-11-06T02:00:00+00:00",
+    "p_home": 0.7560975609756098,
+    "p_away": 0.2777777777777778
+  }
+}

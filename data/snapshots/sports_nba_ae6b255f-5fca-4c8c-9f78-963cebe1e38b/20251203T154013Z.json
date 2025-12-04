@@ -1,0 +1,20 @@
+{
+  "event_id": "sports:nba:ae6b255f-5fca-4c8c-9f78-963cebe1e38b",
+  "as_of": "2025-12-03T15:40:13.117967Z",
+  "market_prob": 0.7388405797101449,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "fixture_id": "20251204CC80FEF7",
+    "sportsbook": "circa_sports",
+    "event_home": "Indiana Pacers",
+    "event_away": "Denver Nuggets",
+    "fixture_home": "Indiana Pacers",
+    "fixture_away": "Denver Nuggets",
+    "swapped": false,
+    "p_home": 0.03699593044765076,
+    "p_away": 0.013077023669412841
+  }
+}

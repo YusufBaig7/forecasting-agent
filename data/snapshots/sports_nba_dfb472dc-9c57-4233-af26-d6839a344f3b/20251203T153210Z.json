@@ -1,0 +1,20 @@
+{
+  "event_id": "sports:nba:dfb472dc-9c57-4233-af26-d6839a344f3b",
+  "as_of": "2025-12-03T15:32:10.220432Z",
+  "market_prob": 0.19916932290157444,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "fixture_id": "20251204BF423DF7",
+    "sportsbook": "circa_sports",
+    "event_home": "Cleveland Cavaliers",
+    "event_away": "Portland Trail Blazers",
+    "fixture_home": "Cleveland Cavaliers",
+    "fixture_away": "Portland Trail Blazers",
+    "swapped": false,
+    "p_home": 0.012061271257990593,
+    "p_away": 0.04849660523763336
+  }
+}

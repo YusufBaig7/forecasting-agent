@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:4b887b94-bebf-4364-a66a-04a6ac6e1da8",
+  "as_of": "2025-11-03T18:00:00Z",
+  "market_prob": 0.32907598605371147,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251104B5974967",
+    "sportsbook": "circa_sports",
+    "event_home": "Indiana Pacers",
+    "event_away": "Milwaukee Bucks",
+    "fixture_home": "Indiana Pacers",
+    "fixture_away": "Milwaukee Bucks",
+    "swapped": false,
+    "start": "2025-11-04T00:00:00+00:00",
+    "p_home": 0.3403508771929824,
+    "p_away": 0.6939113954039328
+  }
+}

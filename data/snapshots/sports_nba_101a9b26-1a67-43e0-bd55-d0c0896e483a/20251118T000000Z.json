@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:101a9b26-1a67-43e0-bd55-d0c0896e483a",
+  "as_of": "2025-11-18T00:00:00Z",
+  "market_prob": 0.8623188405797101,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "202511182B6B98ED",
+    "sportsbook": "circa_sports",
+    "event_home": "Minnesota Timberwolves",
+    "event_away": "Dallas Mavericks",
+    "fixture_home": "Minnesota Timberwolves",
+    "fixture_away": "Dallas Mavericks",
+    "swapped": false,
+    "start": "2025-11-18T01:00:00+00:00",
+    "p_home": 0.8947368421052632,
+    "p_away": 0.14285714285714285
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:8cbc763a-ba77-44e3-9396-989b1c8378bf",
+  "as_of": "2025-11-07T18:00:00Z",
+  "market_prob": 0.5962732919254659,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "2025110832F0FCA3",
+    "sportsbook": "circa_sports",
+    "event_home": "Orlando Magic",
+    "event_away": "Boston Celtics",
+    "fixture_home": "Orlando Magic",
+    "fixture_away": "Boston Celtics",
+    "swapped": false,
+    "start": "2025-11-08T00:00:00+00:00",
+    "p_home": 0.6153846153846154,
+    "p_away": 0.4166666666666667
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:67482d8f-6250-46fc-943e-6ac86015552f",
+  "as_of": "2025-11-10T18:00:00Z",
+  "market_prob": 0.2627689058994324,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "2025111131235587",
+    "sportsbook": "circa_sports",
+    "event_home": "Charlotte Hornets",
+    "event_away": "Los Angeles Lakers",
+    "fixture_home": "Charlotte Hornets",
+    "fixture_away": "Los Angeles Lakers",
+    "swapped": false,
+    "start": "2025-11-11T00:00:00+00:00",
+    "p_home": 0.2721804511278195,
+    "p_away": 0.7636363636363637
+  }
+}

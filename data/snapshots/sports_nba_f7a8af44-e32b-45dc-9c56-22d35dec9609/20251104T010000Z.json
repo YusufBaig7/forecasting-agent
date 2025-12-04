@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:f7a8af44-e32b-45dc-9c56-22d35dec9609",
+  "as_of": "2025-11-04T01:00:00Z",
+  "market_prob": 0.5217391304347826,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251105B93B5CB5",
+    "sportsbook": "circa_sports",
+    "event_home": "Chicago Bulls",
+    "event_away": "Philadelphia 76ers",
+    "fixture_home": "Chicago Bulls",
+    "fixture_away": "Philadelphia 76ers",
+    "swapped": false,
+    "start": "2025-11-05T01:00:00+00:00",
+    "p_home": 0.5454545454545454,
+    "p_away": 0.5
+  }
+}

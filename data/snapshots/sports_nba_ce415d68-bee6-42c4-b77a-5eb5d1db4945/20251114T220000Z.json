@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:ce415d68-bee6-42c4-b77a-5eb5d1db4945",
+  "as_of": "2025-11-14T22:00:00Z",
+  "market_prob": 0.7900763358778626,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251115F6F86474",
+    "sportsbook": "circa_sports",
+    "event_home": "Cleveland Cavaliers",
+    "event_away": "Memphis Grizzlies",
+    "fixture_home": "Cleveland Cavaliers",
+    "fixture_away": "Memphis Grizzlies",
+    "swapped": false,
+    "start": "2025-11-15T22:00:00+00:00",
+    "p_home": 0.8181818181818182,
+    "p_away": 0.21739130434782608
+  }
+}

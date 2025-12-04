@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:1ff31ac8-bd32-493f-b1db-a37cfe6a9caa",
+  "as_of": "2025-11-18T19:00:00Z",
+  "market_prob": 0.6854261769975497,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "202511198E251AA3",
+    "sportsbook": "circa_sports",
+    "event_home": "San Antonio Spurs",
+    "event_away": "Memphis Grizzlies",
+    "fixture_home": "San Antonio Spurs",
+    "fixture_away": "Memphis Grizzlies",
+    "swapped": false,
+    "start": "2025-11-19T01:00:00+00:00",
+    "p_home": 0.7072765072765073,
+    "p_away": 0.3246019517205958
+  }
+}

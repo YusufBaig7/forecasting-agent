@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:a569d717-7a19-4e2f-9229-e710ca7f5721",
+  "as_of": "2025-11-15T18:00:00Z",
+  "market_prob": 0.31337984339898883,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251116FE2C1F07",
+    "sportsbook": "circa_sports",
+    "event_home": "Indiana Pacers",
+    "event_away": "Toronto Raptors",
+    "fixture_home": "Indiana Pacers",
+    "fixture_away": "Toronto Raptors",
+    "swapped": false,
+    "start": "2025-11-16T00:00:00+00:00",
+    "p_home": 0.3237054384595368,
+    "p_away": 0.7092436974789916
+  }
+}

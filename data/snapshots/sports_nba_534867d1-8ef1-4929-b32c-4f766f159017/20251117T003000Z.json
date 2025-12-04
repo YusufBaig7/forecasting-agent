@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:534867d1-8ef1-4929-b32c-4f766f159017",
+  "as_of": "2025-11-17T00:30:00Z",
+  "market_prob": 0.17534942820838625,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251119E77F2468",
+    "sportsbook": "circa_sports",
+    "event_home": "Brooklyn Nets",
+    "event_away": "Boston Celtics",
+    "fixture_home": "Brooklyn Nets",
+    "fixture_away": "Boston Celtics",
+    "swapped": false,
+    "start": "2025-11-19T00:30:00+00:00",
+    "p_home": 0.18181818181818182,
+    "p_away": 0.855072463768116
+  }
+}

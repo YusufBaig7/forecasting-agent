@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:ff4b997b-2db1-4c67-ba99-b8e585a153d2",
+  "as_of": "2025-11-15T00:00:00Z",
+  "market_prob": 0.7671347977433681,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "202511156129B66E",
+    "sportsbook": "circa_sports",
+    "event_home": "Milwaukee Bucks",
+    "event_away": "Charlotte Hornets",
+    "fixture_home": "Milwaukee Bucks",
+    "fixture_away": "Charlotte Hornets",
+    "swapped": false,
+    "start": "2025-11-15T01:00:00+00:00",
+    "p_home": 0.7938144329896907,
+    "p_away": 0.24096385542168675
+  }
+}

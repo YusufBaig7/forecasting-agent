@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:ec798269-6627-4c8c-b188-6c35c57427ed",
+  "as_of": "2025-11-12T02:30:00Z",
+  "market_prob": 0.7116843702579665,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "2025111390816D42",
+    "sportsbook": "circa_sports",
+    "event_home": "Oklahoma City Thunder",
+    "event_away": "Los Angeles Lakers",
+    "fixture_home": "Oklahoma City Thunder",
+    "fixture_away": "Los Angeles Lakers",
+    "swapped": false,
+    "start": "2025-11-13T02:30:00+00:00",
+    "p_home": 0.7368421052631579,
+    "p_away": 0.29850746268656714
+  }
+}

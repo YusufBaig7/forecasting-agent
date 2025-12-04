@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:60bb7c59-6cb4-4100-88b6-bff408203281",
+  "as_of": "2025-11-06T00:30:00Z",
+  "market_prob": 0.42888402625820565,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "202511085EDECA60",
+    "sportsbook": "circa_sports",
+    "event_home": "San Antonio Spurs",
+    "event_away": "Houston Rockets",
+    "fixture_home": "San Antonio Spurs",
+    "fixture_away": "Houston Rockets",
+    "swapped": false,
+    "start": "2025-11-08T00:30:00+00:00",
+    "p_home": 0.4444444444444444,
+    "p_away": 0.5918367346938775
+  }
+}

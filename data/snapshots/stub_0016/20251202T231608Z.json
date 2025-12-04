@@ -1,0 +1,12 @@
+{
+  "event_id": "stub:0016",
+  "as_of": "2025-12-02T23:16:08.419997Z",
+  "market_prob": 0.7768409874700685,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": 555.5793567760996,
+  "raw": {
+    "provider": "stub",
+    "version": "v1"
+  }
+}

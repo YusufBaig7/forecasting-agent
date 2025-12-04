@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:8d5bd846-3051-457c-8446-cc6d932bb564",
+  "as_of": "2025-11-13T02:30:00Z",
+  "market_prob": 0.5711159737417943,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251115C47F3D9C",
+    "sportsbook": "circa_sports",
+    "event_home": "San Antonio Spurs",
+    "event_away": "Golden State Warriors",
+    "fixture_home": "San Antonio Spurs",
+    "fixture_away": "Golden State Warriors",
+    "swapped": false,
+    "start": "2025-11-15T02:30:00+00:00",
+    "p_home": 0.5918367346938775,
+    "p_away": 0.4444444444444444
+  }
+}

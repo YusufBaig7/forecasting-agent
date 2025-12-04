@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:403b695c-280e-432a-925a-b0aa72704e70",
+  "as_of": "2025-11-14T01:00:00Z",
+  "market_prob": 0.20338983050847453,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "2025111555750E86",
+    "sportsbook": "circa_sports",
+    "event_home": "New Orleans Pelicans",
+    "event_away": "Los Angeles Lakers",
+    "fixture_home": "New Orleans Pelicans",
+    "fixture_away": "Los Angeles Lakers",
+    "swapped": false,
+    "start": "2025-11-15T01:00:00+00:00",
+    "p_home": 0.21052631578947367,
+    "p_away": 0.8245614035087719
+  }
+}

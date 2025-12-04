@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:6ffc8cfe-3366-4b9a-854f-4b4edc79c8e3",
+  "as_of": "2025-11-12T23:00:00Z",
+  "market_prob": 0.42016806722689076,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "2025111388CFB3CF",
+    "sportsbook": "circa_sports",
+    "event_home": "Detroit Pistons",
+    "event_away": "Chicago Bulls",
+    "fixture_home": "Detroit Pistons",
+    "fixture_away": "Chicago Bulls",
+    "swapped": false,
+    "start": "2025-11-13T00:00:00+00:00",
+    "p_home": 0.43478260869565216,
+    "p_away": 0.6
+  }
+}

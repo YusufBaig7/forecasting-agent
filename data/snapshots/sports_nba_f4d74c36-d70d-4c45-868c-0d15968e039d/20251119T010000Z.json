@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:f4d74c36-d70d-4c45-868c-0d15968e039d",
+  "as_of": "2025-11-19T01:00:00Z",
+  "market_prob": 0.5711159737417943,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251121521939F8",
+    "sportsbook": "circa_sports",
+    "event_home": "Memphis Grizzlies",
+    "event_away": "Sacramento Kings",
+    "fixture_home": "Memphis Grizzlies",
+    "fixture_away": "Sacramento Kings",
+    "swapped": false,
+    "start": "2025-11-21T01:00:00+00:00",
+    "p_home": 0.5918367346938775,
+    "p_away": 0.4444444444444444
+  }
+}

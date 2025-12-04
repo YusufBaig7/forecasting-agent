@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:f59edb2c-6257-4a58-8808-fd2db86b49ed",
+  "as_of": "2025-11-11T00:30:00Z",
+  "market_prob": 0.7727272727272727,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "202511121A2A41DD",
+    "sportsbook": "circa_sports",
+    "event_home": "New York Knicks",
+    "event_away": "Memphis Grizzlies",
+    "fixture_home": "New York Knicks",
+    "fixture_away": "Memphis Grizzlies",
+    "swapped": false,
+    "start": "2025-11-12T00:30:00+00:00",
+    "p_home": 0.8,
+    "p_away": 0.23529411764705882
+  }
+}

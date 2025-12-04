@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:44470581-5a22-4446-80cc-22ebe112d368",
+  "as_of": "2025-11-01T23:00:00Z",
+  "market_prob": 0.37889039242219213,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "202511029FBCFEEA",
+    "sportsbook": "circa_sports",
+    "event_home": "Boston Celtics",
+    "event_away": "Houston Rockets",
+    "fixture_home": "Boston Celtics",
+    "fixture_away": "Houston Rockets",
+    "swapped": false,
+    "start": "2025-11-02T00:00:00+00:00",
+    "p_home": 0.39215686274509803,
+    "p_away": 0.6428571428571429
+  }
+}

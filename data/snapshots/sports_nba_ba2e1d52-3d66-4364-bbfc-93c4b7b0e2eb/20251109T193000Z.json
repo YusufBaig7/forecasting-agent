@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:ba2e1d52-3d66-4364-bbfc-93c4b7b0e2eb",
+  "as_of": "2025-11-09T19:30:00Z",
+  "market_prob": 0.39596563317146055,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251109C82F6D19",
+    "sportsbook": "circa_sports",
+    "event_home": "Milwaukee Bucks",
+    "event_away": "Houston Rockets",
+    "fixture_home": "Milwaukee Bucks",
+    "fixture_away": "Houston Rockets",
+    "swapped": false,
+    "start": "2025-11-09T20:30:00+00:00",
+    "p_home": 0.40816326530612246,
+    "p_away": 0.6226415094339622
+  }
+}

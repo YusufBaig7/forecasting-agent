@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:cf797322-6e51-4341-bebf-acb49667aefb",
+  "as_of": "2025-11-10T01:00:00Z",
+  "market_prob": 0.39596563317146055,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "202511113CA4D3C1",
+    "sportsbook": "circa_sports",
+    "event_home": "Chicago Bulls",
+    "event_away": "San Antonio Spurs",
+    "fixture_home": "Chicago Bulls",
+    "fixture_away": "San Antonio Spurs",
+    "swapped": false,
+    "start": "2025-11-11T01:00:00+00:00",
+    "p_home": 0.40816326530612246,
+    "p_away": 0.6226415094339622
+  }
+}

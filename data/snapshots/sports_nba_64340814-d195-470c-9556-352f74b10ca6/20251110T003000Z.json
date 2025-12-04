@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:64340814-d195-470c-9556-352f74b10ca6",
+  "as_of": "2025-11-10T00:30:00Z",
+  "market_prob": 0.22727272727272724,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251112245E857D",
+    "sportsbook": "circa_sports",
+    "event_home": "Brooklyn Nets",
+    "event_away": "Toronto Raptors",
+    "fixture_home": "Brooklyn Nets",
+    "fixture_away": "Toronto Raptors",
+    "swapped": false,
+    "start": "2025-11-12T00:30:00+00:00",
+    "p_home": 0.23529411764705882,
+    "p_away": 0.8
+  }
+}

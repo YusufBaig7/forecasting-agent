@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:0e9b5062-68de-4fb3-b7b6-8c9210b1f9a0",
+  "as_of": "2025-11-19T18:00:00Z",
+  "market_prob": 0.4572564612326044,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "202511201783D4D5",
+    "sportsbook": "circa_sports",
+    "event_home": "Indiana Pacers",
+    "event_away": "Charlotte Hornets",
+    "fixture_home": "Indiana Pacers",
+    "fixture_away": "Charlotte Hornets",
+    "swapped": false,
+    "start": "2025-11-20T00:00:00+00:00",
+    "p_home": 0.47619047619047616,
+    "p_away": 0.5652173913043478
+  }
+}

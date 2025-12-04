@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:f05523b5-9fae-4117-bb7e-765fa47fcea2",
+  "as_of": "2025-11-15T00:30:00Z",
+  "market_prob": 0.40372670807453415,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "202511172ED6A39A",
+    "sportsbook": "circa_sports",
+    "event_home": "Dallas Mavericks",
+    "event_away": "Portland Trail Blazers",
+    "fixture_home": "Dallas Mavericks",
+    "fixture_away": "Portland Trail Blazers",
+    "swapped": false,
+    "start": "2025-11-17T00:30:00+00:00",
+    "p_home": 0.4166666666666667,
+    "p_away": 0.6153846153846154
+  }
+}

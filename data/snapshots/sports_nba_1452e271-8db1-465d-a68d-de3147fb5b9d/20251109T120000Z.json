@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:1452e271-8db1-465d-a68d-de3147fb5b9d",
+  "as_of": "2025-11-09T12:00:00Z",
+  "market_prob": 0.19512195121951217,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251109F85DA1F9",
+    "sportsbook": "circa_sports",
+    "event_home": "Memphis Grizzlies",
+    "event_away": "Oklahoma City Thunder",
+    "fixture_home": "Memphis Grizzlies",
+    "fixture_away": "Oklahoma City Thunder",
+    "swapped": false,
+    "start": "2025-11-09T23:00:00+00:00",
+    "p_home": 0.20202020202020202,
+    "p_away": 0.8333333333333334
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "event_id": "sports:nba:fbd70f6d-6a2a-4e80-a018-0a3269199172",
+  "as_of": "2025-12-03T15:32:10.220432Z",
+  "market_prob": 0.2645042957814461,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "fixture_id": "20251204F39BAD77",
+    "sportsbook": "circa_sports",
+    "event_home": "Orlando Magic",
+    "event_away": "San Antonio Spurs",
+    "fixture_home": "Orlando Magic",
+    "fixture_away": "San Antonio Spurs",
+    "swapped": false,
+    "p_home": 0.013125082031762698,
+    "p_away": 0.03649635036496351
+  }
+}

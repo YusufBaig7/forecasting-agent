@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:324d72a6-c0d0-4270-b547-6df98705cf1e",
+  "as_of": "2025-11-19T01:00:00Z",
+  "market_prob": 0.5108342361863488,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251121D70C39E0",
+    "sportsbook": "circa_sports",
+    "event_home": "San Antonio Spurs",
+    "event_away": "Atlanta Hawks",
+    "fixture_home": "San Antonio Spurs",
+    "fixture_away": "Atlanta Hawks",
+    "swapped": false,
+    "start": "2025-11-21T01:00:00+00:00",
+    "p_home": 0.5348837209302325,
+    "p_away": 0.5121951219512195
+  }
+}

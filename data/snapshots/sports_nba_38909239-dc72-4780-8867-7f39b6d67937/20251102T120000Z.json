@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:38909239-dc72-4780-8867-7f39b6d67937",
+  "as_of": "2025-11-02T12:00:00Z",
+  "market_prob": 0.6681385937525162,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251102A80E4606",
+    "sportsbook": "circa_sports",
+    "event_home": "Cleveland Cavaliers",
+    "event_away": "Atlanta Hawks",
+    "fixture_home": "Cleveland Cavaliers",
+    "fixture_away": "Atlanta Hawks",
+    "swapped": false,
+    "start": "2025-11-02T23:00:00+00:00",
+    "p_home": 0.6897644927536232,
+    "p_away": 0.34260289210233597
+  }
+}

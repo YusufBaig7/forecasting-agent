@@ -1,0 +1,20 @@
+{
+  "event_id": "sports:nba:ef3e9b0c-0101-43d6-9ba4-5efc68673857",
+  "as_of": "2025-12-03T15:40:13.117967Z",
+  "market_prob": 0.40516825764150033,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "fixture_id": "2025120547435927",
+    "sportsbook": "jugabet_chile_",
+    "event_home": "Philadelphia 76ers",
+    "event_away": "Golden State Warriors",
+    "fixture_home": "Philadelphia 76ers",
+    "fixture_away": "Golden State Warriors",
+    "swapped": false,
+    "p_home": 0.016210082671421624,
+    "p_away": 0.023798191337458353
+  }
+}

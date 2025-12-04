@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:49593d78-c115-44db-b807-895cc9cc32f1",
+  "as_of": "2025-11-02T23:00:00Z",
+  "market_prob": 0.7156573116691285,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251103106A5A68",
+    "sportsbook": "circa_sports",
+    "event_home": "New York Knicks",
+    "event_away": "Chicago Bulls",
+    "fixture_home": "New York Knicks",
+    "fixture_away": "Chicago Bulls",
+    "swapped": false,
+    "start": "2025-11-03T00:00:00+00:00",
+    "p_home": 0.7402597402597403,
+    "p_away": 0.29411764705882354
+  }
+}

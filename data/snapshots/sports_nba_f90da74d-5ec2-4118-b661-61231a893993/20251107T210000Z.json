@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:f90da74d-5ec2-4118-b661-61231a893993",
+  "as_of": "2025-11-07T21:00:00Z",
+  "market_prob": 0.7852618826713024,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "2025110818F80AA4",
+    "sportsbook": "circa_sports",
+    "event_home": "Denver Nuggets",
+    "event_away": "Golden State Warriors",
+    "fixture_home": "Denver Nuggets",
+    "fixture_away": "Golden State Warriors",
+    "swapped": false,
+    "start": "2025-11-08T03:00:00+00:00",
+    "p_home": 0.8132391879964695,
+    "p_away": 0.2223888055972014
+  }
+}

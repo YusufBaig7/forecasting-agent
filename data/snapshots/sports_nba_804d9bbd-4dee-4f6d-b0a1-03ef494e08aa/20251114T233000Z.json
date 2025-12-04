@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:804d9bbd-4dee-4f6d-b0a1-03ef494e08aa",
+  "as_of": "2025-11-14T23:30:00Z",
+  "market_prob": 0.5217391304347826,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251115245B0161",
+    "sportsbook": "circa_sports",
+    "event_home": "Detroit Pistons",
+    "event_away": "Philadelphia 76ers",
+    "fixture_home": "Detroit Pistons",
+    "fixture_away": "Philadelphia 76ers",
+    "swapped": false,
+    "start": "2025-11-15T00:30:00+00:00",
+    "p_home": 0.5454545454545454,
+    "p_away": 0.5
+  }
+}

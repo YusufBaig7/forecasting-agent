@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:d30eeeb6-3c4a-4b00-a4c7-8dfeb35b184f",
+  "as_of": "2025-11-03T00:30:00Z",
+  "market_prob": 0.7804054054054054,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "202511041CE4B2A9",
+    "sportsbook": "circa_sports",
+    "event_home": "Boston Celtics",
+    "event_away": "Utah Jazz",
+    "fixture_home": "Boston Celtics",
+    "fixture_away": "Utah Jazz",
+    "swapped": false,
+    "start": "2025-11-04T00:30:00+00:00",
+    "p_home": 0.8076923076923077,
+    "p_away": 0.22727272727272727
+  }
+}

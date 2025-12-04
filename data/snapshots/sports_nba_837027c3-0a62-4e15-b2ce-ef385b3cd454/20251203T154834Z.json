@@ -1,0 +1,20 @@
+{
+  "event_id": "sports:nba:837027c3-0a62-4e15-b2ce-ef385b3cd454",
+  "as_of": "2025-12-03T15:48:34.814032Z",
+  "market_prob": 0.7723498744931454,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "fixture_id": "2025120563AC8F21",
+    "sportsbook": "jugabet_chile_",
+    "event_home": "Washington Wizards",
+    "event_away": "Boston Celtics",
+    "fixture_home": "Washington Wizards",
+    "fixture_away": "Boston Celtics",
+    "swapped": false,
+    "p_home": 0.04240882103477524,
+    "p_away": 0.0125
+  }
+}

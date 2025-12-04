@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:6050cc9b-faef-41e5-90dc-5db9e5f84364",
+  "as_of": "2025-11-04T01:00:00Z",
+  "market_prob": 0.43795620437956206,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "2025110520112C11",
+    "sportsbook": "circa_sports",
+    "event_home": "Atlanta Hawks",
+    "event_away": "Orlando Magic",
+    "fixture_home": "Atlanta Hawks",
+    "fixture_away": "Orlando Magic",
+    "swapped": false,
+    "start": "2025-11-05T01:00:00+00:00",
+    "p_home": 0.45454545454545453,
+    "p_away": 0.5833333333333334
+  }
+}

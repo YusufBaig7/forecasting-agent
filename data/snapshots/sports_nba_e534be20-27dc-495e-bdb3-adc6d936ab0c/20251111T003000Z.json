@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:e534be20-27dc-495e-bdb3-adc6d936ab0c",
+  "as_of": "2025-11-11T00:30:00Z",
+  "market_prob": 0.6604688763136621,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "2025111383D930B0",
+    "sportsbook": "circa_sports",
+    "event_home": "Miami Heat",
+    "event_away": "Cleveland Cavaliers",
+    "fixture_home": "Miami Heat",
+    "fixture_away": "Cleveland Cavaliers",
+    "swapped": false,
+    "start": "2025-11-13T00:30:00+00:00",
+    "p_home": 0.6825396825396826,
+    "p_away": 0.3508771929824561
+  }
+}

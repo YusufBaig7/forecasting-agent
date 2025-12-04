@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:2b5de4f3-d11e-4fe5-bc23-780dbfdbd2e2",
+  "as_of": "2025-11-18T00:00:00Z",
+  "market_prob": 0.08994708994708996,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251118E0D6C88F",
+    "sportsbook": "circa_sports",
+    "event_home": "New Orleans Pelicans",
+    "event_away": "Oklahoma City Thunder",
+    "fixture_home": "New Orleans Pelicans",
+    "fixture_away": "Oklahoma City Thunder",
+    "swapped": false,
+    "start": "2025-11-18T01:00:00+00:00",
+    "p_home": 0.09302325581395349,
+    "p_away": 0.9411764705882353
+  }
+}

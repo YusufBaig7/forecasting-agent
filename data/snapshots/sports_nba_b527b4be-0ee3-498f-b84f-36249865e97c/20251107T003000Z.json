@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:b527b4be-0ee3-498f-b84f-36249865e97c",
+  "as_of": "2025-11-07T00:30:00Z",
+  "market_prob": 0.20369535826949076,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251108F8B60AAC",
+    "sportsbook": "circa_sports",
+    "event_home": "Brooklyn Nets",
+    "event_away": "Detroit Pistons",
+    "fixture_home": "Brooklyn Nets",
+    "fixture_away": "Detroit Pistons",
+    "swapped": false,
+    "start": "2025-11-08T00:30:00+00:00",
+    "p_home": 0.21052631578947367,
+    "p_away": 0.8230088495575221
+  }
+}

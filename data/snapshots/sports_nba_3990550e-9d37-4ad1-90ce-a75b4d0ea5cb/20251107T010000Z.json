@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:3990550e-9d37-4ad1-90ce-a75b4d0ea5cb",
+  "as_of": "2025-11-07T01:00:00Z",
+  "market_prob": 0.40372670807453415,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "202511094B349023",
+    "sportsbook": "circa_sports",
+    "event_home": "Atlanta Hawks",
+    "event_away": "Los Angeles Lakers",
+    "fixture_home": "Atlanta Hawks",
+    "fixture_away": "Los Angeles Lakers",
+    "swapped": false,
+    "start": "2025-11-09T01:00:00+00:00",
+    "p_home": 0.4166666666666667,
+    "p_away": 0.6153846153846154
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:a9f83f54-d736-4940-9477-a16fa56da4d6",
+  "as_of": "2025-11-17T00:30:00Z",
+  "market_prob": 0.7388632872503841,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251118D1DFEDB7",
+    "sportsbook": "circa_sports",
+    "event_home": "Toronto Raptors",
+    "event_away": "Charlotte Hornets",
+    "fixture_home": "Toronto Raptors",
+    "fixture_away": "Charlotte Hornets",
+    "swapped": false,
+    "start": "2025-11-18T00:30:00+00:00",
+    "p_home": 0.7647058823529411,
+    "p_away": 0.2702702702702703
+  }
+}

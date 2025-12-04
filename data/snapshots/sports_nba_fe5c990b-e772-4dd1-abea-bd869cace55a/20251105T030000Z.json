@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:fe5c990b-e772-4dd1-abea-bd869cace55a",
+  "as_of": "2025-11-05T03:00:00Z",
+  "market_prob": 0.5798319327731092,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "2025110613CF2FBE",
+    "sportsbook": "circa_sports",
+    "event_home": "Sacramento Kings",
+    "event_away": "Golden State Warriors",
+    "fixture_home": "Sacramento Kings",
+    "fixture_away": "Golden State Warriors",
+    "swapped": false,
+    "start": "2025-11-06T03:00:00+00:00",
+    "p_home": 0.6,
+    "p_away": 0.43478260869565216
+  }
+}

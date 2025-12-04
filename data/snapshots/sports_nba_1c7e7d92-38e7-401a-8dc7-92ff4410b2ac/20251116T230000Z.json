@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:1c7e7d92-38e7-401a-8dc7-92ff4410b2ac",
+  "as_of": "2025-11-16T23:00:00Z",
+  "market_prob": 0.19512195121951217,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "202511177B8CD151",
+    "sportsbook": "circa_sports",
+    "event_home": "New Orleans Pelicans",
+    "event_away": "Golden State Warriors",
+    "fixture_home": "New Orleans Pelicans",
+    "fixture_away": "Golden State Warriors",
+    "swapped": false,
+    "start": "2025-11-17T00:00:00+00:00",
+    "p_home": 0.20202020202020202,
+    "p_away": 0.8333333333333334
+  }
+}

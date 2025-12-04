@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:455c0c3a-6753-423d-84ea-405a7aa62add",
+  "as_of": "2025-10-30T23:00:00Z",
+  "market_prob": 0.2540415704387991,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "202511014906E211",
+    "sportsbook": "circa_sports",
+    "event_home": "Washington Wizards",
+    "event_away": "Orlando Magic",
+    "fixture_home": "Washington Wizards",
+    "fixture_away": "Orlando Magic",
+    "swapped": false,
+    "start": "2025-11-01T23:00:00+00:00",
+    "p_home": 0.2631578947368421,
+    "p_away": 0.7727272727272727
+  }
+}

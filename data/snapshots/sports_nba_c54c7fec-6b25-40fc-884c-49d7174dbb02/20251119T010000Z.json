@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:c54c7fec-6b25-40fc-884c-49d7174dbb02",
+  "as_of": "2025-11-19T01:00:00Z",
+  "market_prob": 0.8898305084745762,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251120230C2C61",
+    "sportsbook": "circa_sports",
+    "event_home": "Minnesota Timberwolves",
+    "event_away": "Washington Wizards",
+    "fixture_home": "Minnesota Timberwolves",
+    "fixture_away": "Washington Wizards",
+    "swapped": false,
+    "start": "2025-11-20T01:00:00+00:00",
+    "p_home": 0.9230769230769231,
+    "p_away": 0.11428571428571428
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "event_id": "sports:nba:a4597268-2337-4958-9219-5c3c441b6c95",
+  "as_of": "2025-12-03T15:12:51.107732Z",
+  "market_prob": 0.6548090865152247,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "fixture_id": "20251204C87F2763",
+    "sportsbook": "circa_sports",
+    "event_home": "Dallas Mavericks",
+    "event_away": "Miami Heat",
+    "fixture_home": "Dallas Mavericks",
+    "fixture_away": "Miami Heat",
+    "swapped": false,
+    "p_home": 0.028003360403248388,
+    "p_away": 0.014762326542663125
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:08668440-6825-442a-a5fb-489d76c1e38b",
+  "as_of": "2025-11-13T00:30:00Z",
+  "market_prob": 0.4572564612326044,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "2025111350625A16",
+    "sportsbook": "circa_sports",
+    "event_home": "Dallas Mavericks",
+    "event_away": "Phoenix Suns",
+    "fixture_home": "Dallas Mavericks",
+    "fixture_away": "Phoenix Suns",
+    "swapped": false,
+    "start": "2025-11-13T01:30:00+00:00",
+    "p_home": 0.47619047619047616,
+    "p_away": 0.5652173913043478
+  }
+}

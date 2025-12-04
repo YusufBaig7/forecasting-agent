@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:21799359-108f-4eaa-bef1-cb4a5fc66ef3",
+  "as_of": "2025-11-02T12:00:00Z",
+  "market_prob": 0.6614741519168652,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251102C240CAF8",
+    "sportsbook": "circa_sports",
+    "event_home": "Toronto Raptors",
+    "event_away": "Memphis Grizzlies",
+    "fixture_home": "Toronto Raptors",
+    "fixture_away": "Memphis Grizzlies",
+    "swapped": false,
+    "start": "2025-11-02T23:00:00+00:00",
+    "p_home": 0.6830357142857143,
+    "p_away": 0.34956051386071674
+  }
+}

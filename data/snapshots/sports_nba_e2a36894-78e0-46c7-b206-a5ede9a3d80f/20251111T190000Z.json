@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:e2a36894-78e0-46c7-b206-a5ede9a3d80f",
+  "as_of": "2025-11-11T19:00:00Z",
+  "market_prob": 0.5052175764889615,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "2025111238ABF8FD",
+    "sportsbook": "circa_sports",
+    "event_home": "Philadelphia 76ers",
+    "event_away": "Boston Celtics",
+    "fixture_home": "Philadelphia 76ers",
+    "fixture_away": "Boston Celtics",
+    "swapped": false,
+    "start": "2025-11-12T01:00:00+00:00",
+    "p_home": 0.5260162601626016,
+    "p_away": 0.5151515151515151
+  }
+}

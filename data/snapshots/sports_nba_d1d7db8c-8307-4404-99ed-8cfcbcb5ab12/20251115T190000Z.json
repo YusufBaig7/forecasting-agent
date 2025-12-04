@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:d1d7db8c-8307-4404-99ed-8cfcbcb5ab12",
+  "as_of": "2025-11-15T19:00:00Z",
+  "market_prob": 0.4913023546983058,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "2025111648945C14",
+    "sportsbook": "circa_sports",
+    "event_home": "Minnesota Timberwolves",
+    "event_away": "Denver Nuggets",
+    "fixture_home": "Minnesota Timberwolves",
+    "fixture_away": "Denver Nuggets",
+    "swapped": false,
+    "start": "2025-11-16T01:00:00+00:00",
+    "p_home": 0.513953488372093,
+    "p_away": 0.532150776053215
+  }
+}

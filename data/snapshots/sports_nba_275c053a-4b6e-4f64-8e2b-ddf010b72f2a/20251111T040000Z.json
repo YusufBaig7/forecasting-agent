@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:275c053a-4b6e-4f64-8e2b-ddf010b72f2a",
+  "as_of": "2025-11-11T04:00:00Z",
+  "market_prob": 0.24793388429752067,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251112ADC78E2E",
+    "sportsbook": "circa_sports",
+    "event_home": "Sacramento Kings",
+    "event_away": "Denver Nuggets",
+    "fixture_home": "Sacramento Kings",
+    "fixture_away": "Denver Nuggets",
+    "swapped": false,
+    "start": "2025-11-12T04:00:00+00:00",
+    "p_home": 0.2564102564102564,
+    "p_away": 0.7777777777777778
+  }
+}

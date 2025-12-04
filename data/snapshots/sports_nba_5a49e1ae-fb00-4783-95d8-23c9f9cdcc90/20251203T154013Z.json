@@ -1,0 +1,20 @@
+{
+  "event_id": "sports:nba:5a49e1ae-fb00-4783-95d8-23c9f9cdcc90",
+  "as_of": "2025-12-03T15:40:13.117967Z",
+  "market_prob": 0.2645042957814461,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "fixture_id": "2025120442F92FD3",
+    "sportsbook": "circa_sports",
+    "event_home": "Chicago Bulls",
+    "event_away": "Brooklyn Nets",
+    "fixture_home": "Chicago Bulls",
+    "fixture_away": "Brooklyn Nets",
+    "swapped": false,
+    "p_home": 0.013125082031762698,
+    "p_away": 0.03649635036496351
+  }
+}

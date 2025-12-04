@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:a910808c-24f9-498b-9872-1e541216d722",
+  "as_of": "2025-11-17T20:00:00Z",
+  "market_prob": 0.8516775536719985,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251118FFAB4028",
+    "sportsbook": "circa_sports",
+    "event_home": "Denver Nuggets",
+    "event_away": "Chicago Bulls",
+    "fixture_home": "Denver Nuggets",
+    "fixture_away": "Chicago Bulls",
+    "swapped": false,
+    "start": "2025-11-18T02:00:00+00:00",
+    "p_home": 0.8828282828282827,
+    "p_away": 0.1537474482356372
+  }
+}

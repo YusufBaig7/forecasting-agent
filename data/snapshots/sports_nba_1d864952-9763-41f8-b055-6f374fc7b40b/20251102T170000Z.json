@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:1d864952-9763-41f8-b055-6f374fc7b40b",
+  "as_of": "2025-11-02T17:00:00Z",
+  "market_prob": 0.521934827848867,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "2025110254A8A521",
+    "sportsbook": "circa_sports",
+    "event_home": "Charlotte Hornets",
+    "event_away": "Utah Jazz",
+    "fixture_home": "Charlotte Hornets",
+    "fixture_away": "Utah Jazz",
+    "swapped": false,
+    "start": "2025-11-02T23:00:00+00:00",
+    "p_home": 0.5431372549019607,
+    "p_away": 0.49748549323017405
+  }
+}

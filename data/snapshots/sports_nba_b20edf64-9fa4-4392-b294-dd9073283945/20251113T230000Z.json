@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:b20edf64-9fa4-4392-b294-dd9073283945",
+  "as_of": "2025-11-13T23:00:00Z",
+  "market_prob": 0.7116843702579665,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251114B3F6BC7C",
+    "sportsbook": "circa_sports",
+    "event_home": "Cleveland Cavaliers",
+    "event_away": "Toronto Raptors",
+    "fixture_home": "Cleveland Cavaliers",
+    "fixture_away": "Toronto Raptors",
+    "swapped": false,
+    "start": "2025-11-14T00:00:00+00:00",
+    "p_home": 0.7368421052631579,
+    "p_away": 0.29850746268656714
+  }
+}

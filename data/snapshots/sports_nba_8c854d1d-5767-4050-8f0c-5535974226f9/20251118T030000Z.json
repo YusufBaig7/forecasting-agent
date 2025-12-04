@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:8c854d1d-5767-4050-8f0c-5535974226f9",
+  "as_of": "2025-11-18T03:00:00Z",
+  "market_prob": 0.4675324675324675,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251120814016D4",
+    "sportsbook": "circa_sports",
+    "event_home": "Portland Trail Blazers",
+    "event_away": "Chicago Bulls",
+    "fixture_home": "Portland Trail Blazers",
+    "fixture_away": "Chicago Bulls",
+    "swapped": false,
+    "start": "2025-11-20T03:00:00+00:00",
+    "p_home": 0.4878048780487805,
+    "p_away": 0.5555555555555556
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:f2345690-2e6f-4a27-bbb2-eedc4e60e0a9",
+  "as_of": "2025-11-16T12:00:00Z",
+  "market_prob": 0.6953227782062332,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251116D08A37C7",
+    "sportsbook": "circa_sports",
+    "event_home": "San Antonio Spurs",
+    "event_away": "Sacramento Kings",
+    "fixture_home": "San Antonio Spurs",
+    "fixture_away": "Sacramento Kings",
+    "swapped": false,
+    "start": "2025-11-16T21:00:00+00:00",
+    "p_home": 0.7178082191780821,
+    "p_away": 0.3145299145299145
+  }
+}

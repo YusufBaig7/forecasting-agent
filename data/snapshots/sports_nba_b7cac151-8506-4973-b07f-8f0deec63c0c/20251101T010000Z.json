@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:b7cac151-8506-4973-b07f-8f0deec63c0c",
+  "as_of": "2025-11-01T01:00:00Z",
+  "market_prob": 0.3076923076923077,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "202511033158E4DA",
+    "sportsbook": "circa_sports",
+    "event_home": "Phoenix Suns",
+    "event_away": "San Antonio Spurs",
+    "fixture_home": "Phoenix Suns",
+    "fixture_away": "San Antonio Spurs",
+    "swapped": false,
+    "start": "2025-11-03T01:00:00+00:00",
+    "p_home": 0.31746031746031744,
+    "p_away": 0.7142857142857143
+  }
+}

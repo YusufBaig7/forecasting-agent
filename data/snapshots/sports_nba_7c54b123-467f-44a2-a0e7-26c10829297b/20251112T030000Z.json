@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:7c54b123-467f-44a2-a0e7-26c10829297b",
+  "as_of": "2025-11-12T03:00:00Z",
+  "market_prob": 0.40372670807453415,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251113108FBBC3",
+    "sportsbook": "circa_sports",
+    "event_home": "Sacramento Kings",
+    "event_away": "Atlanta Hawks",
+    "fixture_home": "Sacramento Kings",
+    "fixture_away": "Atlanta Hawks",
+    "swapped": false,
+    "start": "2025-11-13T03:00:00+00:00",
+    "p_home": 0.4166666666666667,
+    "p_away": 0.6153846153846154
+  }
+}

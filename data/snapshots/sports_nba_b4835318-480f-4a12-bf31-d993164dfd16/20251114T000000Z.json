@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:b4835318-480f-4a12-bf31-d993164dfd16",
+  "as_of": "2025-11-14T00:00:00Z",
+  "market_prob": 0.867109634551495,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "202511156FFB803C",
+    "sportsbook": "circa_sports",
+    "event_home": "Orlando Magic",
+    "event_away": "Brooklyn Nets",
+    "fixture_home": "Orlando Magic",
+    "fixture_away": "Brooklyn Nets",
+    "swapped": false,
+    "start": "2025-11-15T00:00:00+00:00",
+    "p_home": 0.9,
+    "p_away": 0.13793103448275862
+  }
+}

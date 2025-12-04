@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:b979d4f9-eb0b-48fa-9ea2-827ccf35b3d4",
+  "as_of": "2025-11-20T00:00:00Z",
+  "market_prob": 0.9009900990099009,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "202511207CB03D10",
+    "sportsbook": "circa_sports",
+    "event_home": "Oklahoma City Thunder",
+    "event_away": "Sacramento Kings",
+    "fixture_home": "Oklahoma City Thunder",
+    "fixture_away": "Sacramento Kings",
+    "swapped": false,
+    "start": "2025-11-20T01:00:00+00:00",
+    "p_home": 0.9333333333333333,
+    "p_away": 0.10256410256410256
+  }
+}

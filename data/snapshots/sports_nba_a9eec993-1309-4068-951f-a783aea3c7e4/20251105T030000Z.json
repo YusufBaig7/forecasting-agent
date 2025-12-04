@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:a9eec993-1309-4068-951f-a783aea3c7e4",
+  "as_of": "2025-11-05T03:00:00Z",
+  "market_prob": 0.35294117647058826,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "2025110611D74133",
+    "sportsbook": "circa_sports",
+    "event_home": "Portland Trail Blazers",
+    "event_away": "Oklahoma City Thunder",
+    "fixture_home": "Portland Trail Blazers",
+    "fixture_away": "Oklahoma City Thunder",
+    "swapped": false,
+    "start": "2025-11-06T03:00:00+00:00",
+    "p_home": 0.36363636363636365,
+    "p_away": 0.6666666666666666
+  }
+}

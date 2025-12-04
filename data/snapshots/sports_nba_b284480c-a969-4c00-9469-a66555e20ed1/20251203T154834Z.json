@@ -1,0 +1,20 @@
+{
+  "event_id": "sports:nba:b284480c-a969-4c00-9469-a66555e20ed1",
+  "as_of": "2025-12-03T15:48:34.814032Z",
+  "market_prob": 0.24792109843357182,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "fixture_id": "2025120492B2CA11",
+    "sportsbook": "circa_sports",
+    "event_home": "New York Knicks",
+    "event_away": "Charlotte Hornets",
+    "fixture_home": "New York Knicks",
+    "fixture_away": "Charlotte Hornets",
+    "swapped": false,
+    "p_home": 0.012856775520699408,
+    "p_away": 0.0390015600624025
+  }
+}

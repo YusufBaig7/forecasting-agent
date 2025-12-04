@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:92b7341f-773f-414f-856f-f77553612ec0",
+  "as_of": "2025-11-11T01:00:00Z",
+  "market_prob": 0.9009900990099009,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "202511130CB49CDE",
+    "sportsbook": "circa_sports",
+    "event_home": "Houston Rockets",
+    "event_away": "Washington Wizards",
+    "fixture_home": "Houston Rockets",
+    "fixture_away": "Washington Wizards",
+    "swapped": false,
+    "start": "2025-11-13T01:00:00+00:00",
+    "p_home": 0.9333333333333333,
+    "p_away": 0.10256410256410256
+  }
+}

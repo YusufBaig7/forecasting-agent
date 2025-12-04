@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:89fcc6ad-7253-4bbc-93ab-3bd9c478cfde",
+  "as_of": "2025-11-02T01:00:00Z",
+  "market_prob": 0.7116843702579665,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "2025110238EA7C41",
+    "sportsbook": "circa_sports",
+    "event_home": "Detroit Pistons",
+    "event_away": "Dallas Mavericks",
+    "fixture_home": "Detroit Pistons",
+    "fixture_away": "Dallas Mavericks",
+    "swapped": false,
+    "start": "2025-11-02T02:00:00+00:00",
+    "p_home": 0.7368421052631579,
+    "p_away": 0.29850746268656714
+  }
+}

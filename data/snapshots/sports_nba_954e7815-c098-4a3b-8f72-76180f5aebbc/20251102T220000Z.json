@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:954e7815-c098-4a3b-8f72-76180f5aebbc",
+  "as_of": "2025-11-02T22:00:00Z",
+  "market_prob": 0.36546943919344677,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251102C084768D",
+    "sportsbook": "circa_sports",
+    "event_home": "Brooklyn Nets",
+    "event_away": "Philadelphia 76ers",
+    "fixture_home": "Brooklyn Nets",
+    "fixture_away": "Philadelphia 76ers",
+    "swapped": false,
+    "start": "2025-11-02T23:00:00+00:00",
+    "p_home": 0.37735849056603776,
+    "p_away": 0.6551724137931034
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:0b3f1e12-529a-4deb-8c02-f6842214f257",
+  "as_of": "2025-11-08T01:00:00Z",
+  "market_prob": 0.7520661157024794,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "202511094A83AFC5",
+    "sportsbook": "circa_sports",
+    "event_home": "Cleveland Cavaliers",
+    "event_away": "Chicago Bulls",
+    "fixture_home": "Cleveland Cavaliers",
+    "fixture_away": "Chicago Bulls",
+    "swapped": false,
+    "start": "2025-11-09T01:00:00+00:00",
+    "p_home": 0.7777777777777778,
+    "p_away": 0.2564102564102564
+  }
+}

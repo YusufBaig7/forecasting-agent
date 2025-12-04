@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:bc0ebcb4-8c28-4c44-99fd-5367b381473f",
+  "as_of": "2025-11-08T00:30:00Z",
+  "market_prob": 0.6409007912355448,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251109B6F7F586",
+    "sportsbook": "circa_sports",
+    "event_home": "Philadelphia 76ers",
+    "event_away": "Toronto Raptors",
+    "fixture_home": "Philadelphia 76ers",
+    "fixture_away": "Toronto Raptors",
+    "swapped": false,
+    "start": "2025-11-09T00:30:00+00:00",
+    "p_home": 0.6610169491525424,
+    "p_away": 0.37037037037037035
+  }
+}

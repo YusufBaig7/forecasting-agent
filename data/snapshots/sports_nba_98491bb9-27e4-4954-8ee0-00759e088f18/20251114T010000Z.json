@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:98491bb9-27e4-4954-8ee0-00759e088f18",
+  "as_of": "2025-11-14T01:00:00Z",
+  "market_prob": 0.6115107913669064,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251114DD8C8D19",
+    "sportsbook": "circa_sports",
+    "event_home": "Phoenix Suns",
+    "event_away": "Indiana Pacers",
+    "fixture_home": "Phoenix Suns",
+    "fixture_away": "Indiana Pacers",
+    "swapped": false,
+    "start": "2025-11-14T02:00:00+00:00",
+    "p_home": 0.6296296296296297,
+    "p_away": 0.4
+  }
+}

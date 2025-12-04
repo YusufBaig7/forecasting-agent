@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:b83a510b-5cd9-469c-aa5a-320dc5b57287",
+  "as_of": "2025-11-07T01:00:00Z",
+  "market_prob": 0.6470588235294118,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "2025110805A1BE3A",
+    "sportsbook": "circa_sports",
+    "event_home": "Miami Heat",
+    "event_away": "Charlotte Hornets",
+    "fixture_home": "Miami Heat",
+    "fixture_away": "Charlotte Hornets",
+    "swapped": false,
+    "start": "2025-11-08T01:00:00+00:00",
+    "p_home": 0.6666666666666666,
+    "p_away": 0.36363636363636365
+  }
+}

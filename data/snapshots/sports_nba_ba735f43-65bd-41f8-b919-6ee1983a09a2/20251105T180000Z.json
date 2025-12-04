@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:ba735f43-65bd-41f8-b919-6ee1983a09a2",
+  "as_of": "2025-11-05T18:00:00Z",
+  "market_prob": 0.6923076923076924,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "202511063D24083F",
+    "sportsbook": "circa_sports",
+    "event_home": "Indiana Pacers",
+    "event_away": "Brooklyn Nets",
+    "fixture_home": "Indiana Pacers",
+    "fixture_away": "Brooklyn Nets",
+    "swapped": false,
+    "start": "2025-11-06T00:00:00+00:00",
+    "p_home": 0.7142857142857143,
+    "p_away": 0.31746031746031744
+  }
+}

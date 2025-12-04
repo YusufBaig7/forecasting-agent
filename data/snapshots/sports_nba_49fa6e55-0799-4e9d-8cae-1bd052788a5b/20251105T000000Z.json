@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:49fa6e55-0799-4e9d-8cae-1bd052788a5b",
+  "as_of": "2025-11-05T00:00:00Z",
+  "market_prob": 0.562043795620438,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251105A71E4511",
+    "sportsbook": "circa_sports",
+    "event_home": "New Orleans Pelicans",
+    "event_away": "Charlotte Hornets",
+    "fixture_home": "New Orleans Pelicans",
+    "fixture_away": "Charlotte Hornets",
+    "swapped": false,
+    "start": "2025-11-05T01:00:00+00:00",
+    "p_home": 0.5833333333333334,
+    "p_away": 0.45454545454545453
+  }
+}

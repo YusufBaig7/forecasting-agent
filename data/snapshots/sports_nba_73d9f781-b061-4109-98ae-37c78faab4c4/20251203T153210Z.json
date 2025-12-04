@@ -1,0 +1,20 @@
+{
+  "event_id": "sports:nba:73d9f781-b061-4109-98ae-37c78faab4c4",
+  "as_of": "2025-12-03T15:32:10.220432Z",
+  "market_prob": 0.6345148169668796,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "fixture_id": "20251204420B7E3D",
+    "sportsbook": "circa_sports",
+    "event_home": "Milwaukee Bucks",
+    "event_away": "Detroit Pistons",
+    "fixture_home": "Milwaukee Bucks",
+    "fixture_away": "Detroit Pistons",
+    "swapped": false,
+    "p_home": 0.02649708532061473,
+    "p_away": 0.015262515262515264
+  }
+}

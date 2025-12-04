@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:ebc9be5a-d2fd-4dac-b4d8-1d58e84e41cf",
+  "as_of": "2025-11-05T18:00:00Z",
+  "market_prob": 0.8048780487804877,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251106A7B90FF1",
+    "sportsbook": "circa_sports",
+    "event_home": "Detroit Pistons",
+    "event_away": "Utah Jazz",
+    "fixture_home": "Detroit Pistons",
+    "fixture_away": "Utah Jazz",
+    "swapped": false,
+    "start": "2025-11-06T00:00:00+00:00",
+    "p_home": 0.8333333333333334,
+    "p_away": 0.20202020202020202
+  }
+}

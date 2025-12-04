@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:6775fa71-b33f-46d3-9c82-af2e57bc588c",
+  "as_of": "2025-11-13T01:00:00Z",
+  "market_prob": 0.745958429561201,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "202511152752050F",
+    "sportsbook": "circa_sports",
+    "event_home": "Houston Rockets",
+    "event_away": "Portland Trail Blazers",
+    "fixture_home": "Houston Rockets",
+    "fixture_away": "Portland Trail Blazers",
+    "swapped": false,
+    "start": "2025-11-15T01:00:00+00:00",
+    "p_home": 0.7727272727272727,
+    "p_away": 0.2631578947368421
+  }
+}

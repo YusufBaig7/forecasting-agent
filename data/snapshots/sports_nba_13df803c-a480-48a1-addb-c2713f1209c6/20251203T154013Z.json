@@ -1,0 +1,20 @@
+{
+  "event_id": "sports:nba:13df803c-a480-48a1-addb-c2713f1209c6",
+  "as_of": "2025-12-03T15:40:13.117967Z",
+  "market_prob": 0.8089920092423221,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "fixture_id": "20251205984AC578",
+    "sportsbook": "jugabet_chile_",
+    "event_home": "New Orleans Pelicans",
+    "event_away": "Minnesota Timberwolves",
+    "fixture_home": "New Orleans Pelicans",
+    "fixture_away": "Minnesota Timberwolves",
+    "swapped": false,
+    "p_home": 0.05040322580645162,
+    "p_away": 0.011900511722004046
+  }
+}

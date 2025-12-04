@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:fb4d464d-ea7a-40fb-a5ca-4b4a7f043c29",
+  "as_of": "2025-11-05T01:00:00Z",
+  "market_prob": 0.26448362720403024,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251106DE820B8B",
+    "sportsbook": "circa_sports",
+    "event_home": "Memphis Grizzlies",
+    "event_away": "Houston Rockets",
+    "fixture_home": "Memphis Grizzlies",
+    "fixture_away": "Houston Rockets",
+    "swapped": false,
+    "start": "2025-11-06T01:00:00+00:00",
+    "p_home": 0.273972602739726,
+    "p_away": 0.7619047619047619
+  }
+}

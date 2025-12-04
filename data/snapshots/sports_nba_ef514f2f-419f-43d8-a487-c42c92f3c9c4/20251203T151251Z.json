@@ -1,0 +1,20 @@
+{
+  "event_id": "sports:nba:ef514f2f-419f-43d8-a487-c42c92f3c9c4",
+  "as_of": "2025-12-03T15:12:51.107732Z",
+  "market_prob": 0.11017929438982071,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "fixture_id": "20251204C79F587E",
+    "sportsbook": "circa_sports",
+    "event_home": "Houston Rockets",
+    "event_away": "Sacramento Kings",
+    "fixture_home": "Houston Rockets",
+    "fixture_away": "Sacramento Kings",
+    "swapped": false,
+    "p_home": 0.010833062506770665,
+    "p_away": 0.08748906386701663
+  }
+}

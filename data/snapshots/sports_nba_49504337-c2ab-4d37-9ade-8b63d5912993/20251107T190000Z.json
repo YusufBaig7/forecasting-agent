@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:49504337-c2ab-4d37-9ade-8b63d5912993",
+  "as_of": "2025-11-07T19:00:00Z",
+  "market_prob": 0.8198701573556506,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251108CB7E03C2",
+    "sportsbook": "circa_sports",
+    "event_home": "Minnesota Timberwolves",
+    "event_away": "Utah Jazz",
+    "fixture_home": "Minnesota Timberwolves",
+    "fixture_away": "Utah Jazz",
+    "swapped": false,
+    "start": "2025-11-08T01:00:00+00:00",
+    "p_home": 0.8500513522766177,
+    "p_away": 0.18676081200353045
+  }
+}

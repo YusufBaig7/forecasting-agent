@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:b85f3112-b800-453e-8dfa-7a3d1468c5fa",
+  "as_of": "2025-11-10T18:00:00Z",
+  "market_prob": 0.8266349713062731,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251111C9A41EF7",
+    "sportsbook": "circa_sports",
+    "event_home": "Detroit Pistons",
+    "event_away": "Washington Wizards",
+    "fixture_home": "Detroit Pistons",
+    "fixture_away": "Washington Wizards",
+    "swapped": false,
+    "start": "2025-11-11T00:00:00+00:00",
+    "p_home": 0.8566627218934911,
+    "p_away": 0.1796625626994984
+  }
+}

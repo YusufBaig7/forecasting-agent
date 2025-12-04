@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:cad749f4-33e9-4f73-917c-6c92be3e9bbe",
+  "as_of": "2025-11-15T00:00:00Z",
+  "market_prob": 0.10973936899862827,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251116334ECF0C",
+    "sportsbook": "circa_sports",
+    "event_home": "Charlotte Hornets",
+    "event_away": "Oklahoma City Thunder",
+    "fixture_home": "Charlotte Hornets",
+    "fixture_away": "Oklahoma City Thunder",
+    "swapped": false,
+    "start": "2025-11-16T00:00:00+00:00",
+    "p_home": 0.11363636363636363,
+    "p_away": 0.921875
+  }
+}

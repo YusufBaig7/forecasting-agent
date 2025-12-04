@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:72ab36a6-a345-465d-ac90-0664ef7b016c",
+  "as_of": "2025-11-04T00:00:00Z",
+  "market_prob": 0.8322802986789202,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251104AA14A051",
+    "sportsbook": "circa_sports",
+    "event_home": "Houston Rockets",
+    "event_away": "Dallas Mavericks",
+    "fixture_home": "Houston Rockets",
+    "fixture_away": "Dallas Mavericks",
+    "swapped": false,
+    "start": "2025-11-04T01:00:00+00:00",
+    "p_home": 0.863013698630137,
+    "p_away": 0.17391304347826086
+  }
+}

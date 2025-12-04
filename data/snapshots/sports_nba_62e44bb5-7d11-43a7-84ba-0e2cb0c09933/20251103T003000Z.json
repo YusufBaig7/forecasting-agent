@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:62e44bb5-7d11-43a7-84ba-0e2cb0c09933",
+  "as_of": "2025-11-03T00:30:00Z",
+  "market_prob": 0.8246505717916137,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251104BDD152DF",
+    "sportsbook": "circa_sports",
+    "event_home": "New York Knicks",
+    "event_away": "Washington Wizards",
+    "fixture_home": "New York Knicks",
+    "fixture_away": "Washington Wizards",
+    "swapped": false,
+    "start": "2025-11-04T00:30:00+00:00",
+    "p_home": 0.855072463768116,
+    "p_away": 0.18181818181818182
+  }
+}

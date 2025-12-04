@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:9a75174c-c67e-40be-a361-fea76722e094",
+  "as_of": "2025-10-30T23:00:00Z",
+  "market_prob": 0.2099236641221374,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251101E477DB1D",
+    "sportsbook": "circa_sports",
+    "event_home": "Indiana Pacers",
+    "event_away": "Golden State Warriors",
+    "fixture_home": "Indiana Pacers",
+    "fixture_away": "Golden State Warriors",
+    "swapped": false,
+    "start": "2025-11-01T23:00:00+00:00",
+    "p_home": 0.21739130434782608,
+    "p_away": 0.8181818181818182
+  }
+}

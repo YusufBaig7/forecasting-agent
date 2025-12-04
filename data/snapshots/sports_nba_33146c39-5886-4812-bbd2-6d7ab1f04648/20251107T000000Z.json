@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:33146c39-5886-4812-bbd2-6d7ab1f04648",
+  "as_of": "2025-11-07T00:00:00Z",
+  "market_prob": 0.14394306970726184,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "202511084D479D8A",
+    "sportsbook": "circa_sports",
+    "event_home": "Washington Wizards",
+    "event_away": "Cleveland Cavaliers",
+    "fixture_home": "Washington Wizards",
+    "fixture_away": "Cleveland Cavaliers",
+    "swapped": false,
+    "start": "2025-11-08T00:00:00+00:00",
+    "p_home": 0.14925373134328357,
+    "p_away": 0.8876404494382022
+  }
+}

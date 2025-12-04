@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:64192f0a-01e3-47cd-9d7d-0752de08f029",
+  "as_of": "2025-11-05T00:30:00Z",
+  "market_prob": 0.8048780487804877,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251106296A8588",
+    "sportsbook": "circa_sports",
+    "event_home": "Boston Celtics",
+    "event_away": "Washington Wizards",
+    "fixture_home": "Boston Celtics",
+    "fixture_away": "Washington Wizards",
+    "swapped": false,
+    "start": "2025-11-06T00:30:00+00:00",
+    "p_home": 0.8333333333333334,
+    "p_away": 0.20202020202020202
+  }
+}

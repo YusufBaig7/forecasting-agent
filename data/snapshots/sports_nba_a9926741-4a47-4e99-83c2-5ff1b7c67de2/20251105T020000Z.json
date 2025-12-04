@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:a9926741-4a47-4e99-83c2-5ff1b7c67de2",
+  "as_of": "2025-11-05T02:00:00Z",
+  "market_prob": 0.7853560682046138,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "202511053DEE59D4",
+    "sportsbook": "circa_sports",
+    "event_home": "Golden State Warriors",
+    "event_away": "Phoenix Suns",
+    "fixture_home": "Golden State Warriors",
+    "fixture_away": "Phoenix Suns",
+    "swapped": false,
+    "start": "2025-11-05T03:00:00+00:00",
+    "p_home": 0.8130841121495327,
+    "p_away": 0.2222222222222222
+  }
+}

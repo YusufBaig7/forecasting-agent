@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:857e052d-78ef-4c20-9f8a-5ebf7e914824",
+  "as_of": "2025-11-18T23:30:00Z",
+  "market_prob": 0.4782608695652174,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251119B1CDB7DC",
+    "sportsbook": "circa_sports",
+    "event_home": "Atlanta Hawks",
+    "event_away": "Detroit Pistons",
+    "fixture_home": "Atlanta Hawks",
+    "fixture_away": "Detroit Pistons",
+    "swapped": false,
+    "start": "2025-11-19T00:30:00+00:00",
+    "p_home": 0.5,
+    "p_away": 0.5454545454545454
+  }
+}

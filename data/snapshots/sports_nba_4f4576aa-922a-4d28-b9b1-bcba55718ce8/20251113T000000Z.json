@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:4f4576aa-922a-4d28-b9b1-bcba55718ce8",
+  "as_of": "2025-11-13T00:00:00Z",
+  "market_prob": 0.2444208289054198,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251113A944D068",
+    "sportsbook": "circa_sports",
+    "event_home": "New Orleans Pelicans",
+    "event_away": "Portland Trail Blazers",
+    "fixture_home": "New Orleans Pelicans",
+    "fixture_away": "Portland Trail Blazers",
+    "swapped": false,
+    "start": "2025-11-13T01:00:00+00:00",
+    "p_home": 0.25316455696202533,
+    "p_away": 0.782608695652174
+  }
+}

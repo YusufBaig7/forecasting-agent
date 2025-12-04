@@ -1,0 +1,22 @@
+{
+  "event_id": "sports:nba:57ba4f0d-7712-4176-8821-632a2b179e3b",
+  "as_of": "2025-11-10T23:00:00Z",
+  "market_prob": 0.5324675324675325,
+  "odds_format": null,
+  "odds": null,
+  "liquidity": null,
+  "raw": {
+    "provider": "opticodds",
+    "mode": "historical",
+    "fixture_id": "20251111C169D384",
+    "sportsbook": "circa_sports",
+    "event_home": "Orlando Magic",
+    "event_away": "Portland Trail Blazers",
+    "fixture_home": "Orlando Magic",
+    "fixture_away": "Portland Trail Blazers",
+    "swapped": false,
+    "start": "2025-11-11T00:00:00+00:00",
+    "p_home": 0.5555555555555556,
+    "p_away": 0.4878048780487805
+  }
+}
