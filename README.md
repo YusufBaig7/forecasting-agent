@@ -364,6 +364,3 @@ Test coverage includes:
 - **Location**: `data/reports/{run_id}.json` and `{run_id}.md`
 - **Content**: Experiment results with metrics tables
 
-## License
-
-[Add license information if applicable]
